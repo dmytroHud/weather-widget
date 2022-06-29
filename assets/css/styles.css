@@ -1,0 +1,45 @@
+.ww-wrap {
+	max-width: 280px;
+	background-color: #fff;
+	border-radius: 2px;
+	box-shadow: 0 2px 10px -7px #000000;
+	padding: 20px;
+}
+
+.ww-title {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.ww-row {
+	display: flex;
+}
+
+.ww-col {
+	width: 50%;
+}
+
+.ww-image {
+	width: 100%;
+}
+
+.ww-city {
+	margin-top: 18px;
+	font-size: 18px;
+}
+
+.ww-temp {
+	font-size: 40px;
+	font-weight: 900;
+	line-height: 1;
+}
+
+.ww-wind {
+	font-size: 15px;
+}
+
+.ww-wind-label {
+	font-size: inherit;
+	font-weight: 900;
+}
